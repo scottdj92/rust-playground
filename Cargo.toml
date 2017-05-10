@@ -1,0 +1,8 @@
+[package]
+name = "randomfriend"
+version = "0.1.0"
+authors = ["scottdj92 <scottdj92@gmail.com>"]
+
+[dependencies]
+iron = "*"
+router = "*"
